@@ -1,0 +1,42 @@
+
+.container {
+    background-image: url(/header/header.jpg);
+    width: 100%;
+    box-sizing: content-box;
+    padding: 41px 0 71px;
+  }
+
+.text_first p {
+    font-family: "BebasNeue-Regular", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 72px;
+    text-align: center;
+    letter-spacing: 6px;
+    color: #ffffff;
+    margin-top: 306px ;
+}
+
+.text_second p {
+    font-family: "OpenSans-Medium", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #ffffff;   
+    
+}
+
+.text_third p {
+    font-family: "OpenSans-Medium", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 4px;
+    margin-top: 221px;
+    color: #ffffff;
+}
