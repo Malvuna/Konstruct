@@ -1,10 +1,11 @@
-
-.container {
+header {
     background-image: url(/header/header.jpg);
-    width: 100%;
-    box-sizing: content-box;
-    padding: 41px 0 71px;
-  }
+    background-repeat: no-repeat;
+}
+
+img {
+    margin-top: 41px;
+}
 
 .text_first p {
     font-family: "BebasNeue-Regular", sans-serif;
@@ -15,7 +16,7 @@
     text-align: center;
     letter-spacing: 6px;
     color: #ffffff;
-    margin-top: 306px ;
+    margin-top: 296px;
 }
 
 .text_second p {
@@ -26,7 +27,6 @@
     line-height: 22px;
     text-align: center;
     color: #ffffff;   
-    
 }
 
 .text_third p {
@@ -37,6 +37,7 @@
     line-height: 15px;
     text-align: center;
     letter-spacing: 4px;
-    margin-top: 221px;
     color: #ffffff;
+    margin-top: 221px;
+    padding-bottom: 71px;
 }

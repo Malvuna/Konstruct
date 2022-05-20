@@ -18,10 +18,3 @@
   
   .items a:hover {
     color: #00A4E5;
-
-    hr {
-        display: block;
-        margin: 0 auto;
-        max-width: 1450px;
-        border-bottom: 1px solid #E6E6E6;
-      }
