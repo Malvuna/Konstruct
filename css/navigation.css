@@ -1,0 +1,27 @@
+.navigation {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    text-transform: uppercase;
+    font-family: "OpenSans-Medium", sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 1px;
+}
+
+.items a {
+    text-decoration: none;
+    color: #48555B;
+    margin: 0 20px;
+  }
+  
+  .items a:hover {
+    color: #00A4E5;
+
+    hr {
+        display: block;
+        margin: 0 auto;
+        max-width: 1450px;
+        border-bottom: 1px solid #E6E6E6;
+      }
