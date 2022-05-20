@@ -5,6 +5,10 @@
     box-sizing: content-box;
     width: 940px;
     height: 65px;
-    background-color: #eb8787;
     margin: 0 auto;
     }
+
+.hr {
+    width: 100%;
+    border-bottom: 1px solid #E6E6E6;
+}
