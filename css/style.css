@@ -2,6 +2,7 @@
 @import url("./header.css");
 @import url("./menu.css");
 @import url("./navigation.css");
+@import url("./story.css");
 
 html {
     scroll-behavior: smooth;
@@ -28,7 +29,16 @@ body {
     font-style: normal;
     font-display: swap;
   }
+
   
+  @font-face {
+    font-family: "OpenSans-Bold";
+    src: url("/fonts/OpenSans-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
   @font-face {
     font-family: "BebasNeue-Regular";
     src: url("/fonts/BebasNeue-Regular.ttf") format("truetype");
@@ -36,3 +46,4 @@ body {
     font-style: normal;
     font-display: swap;
   }
+  
