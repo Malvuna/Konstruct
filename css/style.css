@@ -62,4 +62,6 @@ body {
     width: 150px;
     height: 40px;
     background-color: #00a4e5;
+    padding: 11px;
+    box-sizing: border-box;
   }
