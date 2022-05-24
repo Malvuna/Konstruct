@@ -5,6 +5,10 @@
 @import url("./story.css");
 @import url("./capa.css");
 @import url("./gallery.css");
+@import url("./want.css");
+@import url("./footer.css");
+@import url("./newsletter.css");
+
 
 html {
     scroll-behavior: smooth;

@@ -1,0 +1,15 @@
+footer {
+    height: 60px;
+    background-color: #171819;
+    padding: 22px;
+    box-sizing: border-box;
+}
+
+footer p {
+    font-family: "OpenSans-Medium", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
