@@ -3,6 +3,7 @@
 @import url("./menu.css");
 @import url("./navigation.css");
 @import url("./story.css");
+@import url("./capa.css");
 
 html {
     scroll-behavior: smooth;
@@ -47,3 +48,18 @@ body {
     font-display: swap;
   }
   
+  .button_text{
+    text-decoration: none;
+    font-family: "OpenSans-Bold", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 17px;
+    color: #FFFFFF
+  }
+
+  .button{
+    width: 150px;
+    height: 40px;
+    background-color: #00a4e5;
+  }

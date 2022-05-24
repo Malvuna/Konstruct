@@ -1,0 +1,26 @@
+.capa_head {
+    font-family: "OpenSans-Bold", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #48555B;
+    text-align: left;
+  }
+
+  .div_line_capa {
+    width: 50px;
+    border-top: 2px solid #00a4e5;
+    margin-top: 10px;
+  }
+
+  .capa {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 78px;
+  }
+
+  .capa_text {
+    width: 405px;
+    text-align: left;
+  }

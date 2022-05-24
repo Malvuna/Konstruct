@@ -17,6 +17,11 @@
   margin-bottom: 81px;
 }
 
+.story {
+  display: flex;
+  justify-content: space-between;
+}
+
 .story_img {
   position: relative;
   display: inline-block;
@@ -29,7 +34,7 @@
 }
 
 .story_img p {
-  font-family: "OpenSans-Bold", sans-serif;
+  font-family: "OpenSans-Medium", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -53,21 +58,19 @@
 .sroty_text {
   font-family: "OpenSans-Bold", sans-serif;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 13px;
   line-height: 23px;
 }
 
 .wrap_text {
   display: inline-block;
-  float: left;
   width: 405px;
   text-align: left;
 }
 
 .wrap_img {
   display: inline-block;
-  float: right;
   margin-bottom: 128px;
 }
 
