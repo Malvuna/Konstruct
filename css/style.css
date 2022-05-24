@@ -70,3 +70,12 @@ body {
     padding: 11px;
     box-sizing: border-box;
   }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:link {
+    color: #ffffff;
+  }
+  

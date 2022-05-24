@@ -1,0 +1,17 @@
+.want_text {
+  font-family: "OpenSans-Bold", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  color: #48555b;
+  padding-bottom: 35px;
+}
+
+.want {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("/want/bg.jpg");
+    height: 498px;
+}
