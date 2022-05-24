@@ -4,6 +4,7 @@
 @import url("./navigation.css");
 @import url("./story.css");
 @import url("./capa.css");
+@import url("./gallery.css");
 
 html {
     scroll-behavior: smooth;
